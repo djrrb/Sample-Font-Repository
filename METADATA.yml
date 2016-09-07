@@ -1,0 +1,29 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Sample Font
+  tags:
+  - sans-serif
+  - art-deco
+  - caps
+  - bold
+  - rounded
+  - vertical
+  - layers
+  - inline
+  - outline
+  - shadow
+  - decorative
+  repository url: https://gitlab.com/djrrb/SampleFont
+  project url: https://samplefont.djr.com
+  project status: gamma
+  tools:
+  - RoboFont
+  - FontLab
+  - MetricsMachine
+  - Prepolator
+  similar fonts:
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...

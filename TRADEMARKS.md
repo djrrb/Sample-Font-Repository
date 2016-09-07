@@ -1,0 +1,1 @@
+Sample Font is a trademark of The Font Bureau, Inc.
