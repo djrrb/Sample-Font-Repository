@@ -75,6 +75,10 @@ Here is a sample `.gitlab-ci.yml` file, that will run a build to create the webs
 
 A space for basic information about the typeface.
 
+### specimen.png
+
+An optional specimen image that can be referenced in `readme.md` that will make the repository easily identifiable.
+
 ### LICENSE.txt
 
 Either a link or the full text for the font’s license.
